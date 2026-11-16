@@ -1,0 +1,40 @@
+{
+  "id": "k1m3i16ghx",
+  "name": {
+    "tr": "Sensör",
+    "en": "Sensor",
+    "ar": "المستشعر"
+  },
+  "description": {
+    "tr": "Tartı, sıcaklık, nem ve ses: sensörün altı işi.",
+    "en": "Scale, temperature, humidity and sound: the six jobs of the sensor.",
+    "ar": "الميزان والحرارة والرطوبة والصوت: مهام المستشعر الست."
+  },
+  "keyword": {
+    "tr": "kovan sensörü, akıllı kovan",
+    "en": "hive sensor, smart hive",
+    "ar": "مستشعر الخلية"
+  },
+  "path": "hizmetler",
+  "icon": "hive",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "2ogeo9",
+      "fwxhfb"
+    ],
+    "footer": []
+  },
+  "index": 0,
+  "url": "",
+  "text": {},
+  "title": {
+    "tr": "Sensör",
+    "en": "Sensor",
+    "ar": "المستشعر"
+  },
+  "date": "2026-11-16T22:48:12.933Z",
+  "update": "2026-11-16T23:05:51.757Z"
+}

@@ -1,0 +1,46 @@
+{
+  "name": {
+    "tr": "Sürümler",
+    "en": "Releases",
+    "ar": "الإصدارات"
+  },
+  "status": "play",
+  "category": "",
+  "id": "hakkimizda",
+  "url": "",
+  "path": "hakkimizda",
+  "index": 1,
+  "icon": "history",
+  "desing": {
+    "header": [],
+    "body": [
+      "tdhwbu"
+    ],
+    "footer": []
+  },
+  "pathnext": "",
+  "description": {
+    "tr": "İlk prototipten 140 kovanlık pilota sürüm günlüğü (kurgusal).",
+    "en": "Release log from the first prototype to the 140-hive pilot (fictional).",
+    "ar": "سجل الإصدارات من النموذج الأولي إلى تجربة 140 خلية (افتراضي)."
+  },
+  "spot": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "desc": {},
+  "title": {
+    "tr": "Sürümler",
+    "en": "Releases",
+    "ar": "الإصدارات"
+  },
+  "keyword": {
+    "tr": "hakkımızda",
+    "en": "about",
+    "ar": "من نحن"
+  },
+  "text": {},
+  "update": "2026-11-16T23:05:51.768Z",
+  "date": "2026-10-30"
+}

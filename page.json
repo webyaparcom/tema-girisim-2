@@ -1,0 +1,111 @@
+{
+  "data": [
+    {
+      "id": "k1m3i16ghx",
+      "name": {
+        "tr": "Sensör",
+        "en": "Sensor",
+        "ar": "المستشعر"
+      },
+      "description": {
+        "tr": "Tartı, sıcaklık, nem ve ses: sensörün altı işi.",
+        "en": "Scale, temperature, humidity and sound: the six jobs of the sensor.",
+        "ar": "الميزان والحرارة والرطوبة والصوت: مهام المستشعر الست."
+      },
+      "path": "hizmetler",
+      "icon": "hive",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "2ogeo9",
+          "fwxhfb"
+        ],
+        "footer": []
+      },
+      "index": 0
+    },
+    {
+      "name": {
+        "tr": "Sürümler",
+        "en": "Releases",
+        "ar": "الإصدارات"
+      },
+      "status": "play",
+      "id": "hakkimizda",
+      "path": "hakkimizda",
+      "category": "",
+      "url": "",
+      "index": 1,
+      "icon": "history",
+      "desing": {
+        "header": [],
+        "body": [
+          "tdhwbu"
+        ],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "İlk prototipten 140 kovanlık pilota sürüm günlüğü (kurgusal).",
+        "en": "Release log from the first prototype to the 140-hive pilot (fictional).",
+        "ar": "سجل الإصدارات من النموذج الأولي إلى تجربة 140 خلية (افتراضي)."
+      }
+    },
+    {
+      "id": "c4bp4jw9bk",
+      "name": {
+        "tr": "Demo",
+        "en": "Demo",
+        "ar": "عرض"
+      },
+      "description": {
+        "tr": "Kurucuyla demo görüşmesi talebi (demo).",
+        "en": "Request a demo call with the founder (demo).",
+        "ar": "طلب مكالمة عرض مع المؤسِّسة (تجريبي)."
+      },
+      "path": "teklif-al",
+      "icon": "event",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "fwxhfb"
+        ],
+        "footer": []
+      },
+      "index": 2
+    },
+    {
+      "name": {
+        "tr": "İletişim",
+        "en": "Contact",
+        "ar": "اتصل بنا"
+      },
+      "status": "play",
+      "id": "iletisim",
+      "path": "iletisim",
+      "category": "",
+      "url": "",
+      "index": 3,
+      "icon": "call",
+      "desing": {
+        "header": [],
+        "body": [
+          "76rda4",
+          "k8mp01"
+        ],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "Adres, telefon ve çalışma saatleri.",
+        "en": "Address, phone and opening hours.",
+        "ar": "العنوان والهاتف وساعات العمل."
+      }
+    }
+  ],
+  "desc": []
+}

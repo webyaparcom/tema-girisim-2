@@ -1,0 +1,54 @@
+{
+  "order": false,
+  "user": false,
+  "description": {
+    "tr": "Kovan Sensör: arıcılar için kovan tartısı ve sıcaklık, nem, ses sensörü geliştiren Muğla merkezli tarım teknolojisi girişimi; kovanı açmadan durumunu telefonda gösterir. Demo site; içerik kurgusaldır.",
+    "en": "Kovan Sensor: a Mugla-based agritech start-up building hive scales and temperature, humidity and sound sensors for beekeepers, showing a hive’s condition on the phone without opening it. Demo site; content is fictional.",
+    "ar": "كوفان سنسور: شركة ناشئة للتقنيات الزراعية في موغلا تطوّر موازين خلايا النحل ومستشعرات الحرارة والرطوبة والصوت للنحّالين، وتعرض حالة الخلية على الهاتف دون فتحها. موقع تجريبي؛ المحتوى افتراضي."
+  },
+  "keyword": {
+    "tr": "girişim, tarım teknolojisi, akıllı kovan, arıcılık, kovan sensörü, Muğla",
+    "en": "start-up, agritech, smart hive, beekeeping, hive sensor, Mugla",
+    "ar": "شركة ناشئة، تقنيات زراعية، خلية ذكية، تربية النحل، مستشعر الخلية"
+  },
+  "category": "Kurumsal",
+  "name": "Kovan Sensör",
+  "domain": "girisim-2.webyapar.com",
+  "langs": {
+    "tr": true,
+    "en": true,
+    "ar": true,
+    "de": false,
+    "ru": false,
+    "es": false,
+    "fr": false,
+    "it": false,
+    "ja": false,
+    "zh": false,
+    "ko": false,
+    "pt": false
+  },
+  "logo": "logo.png",
+  "multi": false,
+  "publishMode": "static",
+  "font": {
+    "body": "nunito-sans",
+    "heading": "poppins",
+    "ar": {
+      "body": "ibm-plex-sans-arabic",
+      "heading": "noto-kufi-arabic"
+    }
+  },
+  "colorScheme": "auto",
+  "theme_color": "#E39B0B",
+  "seo": {
+    "noindex": true
+  },
+  "cssTokens": {
+    "--mx-radius-sm": "11px",
+    "--mx-radius-md": "18px",
+    "--mx-radius-lg": "25px",
+    "--mx-radius-xl": "34px"
+  },
+  "icon": "icon.png"
+}

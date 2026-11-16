@@ -1,0 +1,51 @@
+{
+  "name": "Zaman Sürüm Günlüğü — terminal penceresinde commit dalı",
+  "description": "Koyu terminal penceresi (üç ışıklı başlık çubuğu, komut satırı): her dönem bir commit satırı — solda dal grafiği (hat + düğüm, ara ara yan dal kıvrımı), kısa özet kodu, etiket rozeti (yıl/sürüm), başlık ve «└─» ile girintili açıklama; en yeni satır HEAD rozetli. Görünür olunca satırlar yazılıyormuş gibi sırayla açılır, sonda yanıp sönen imleç. zaman-kronik-tablo ve zaman-icindekiler sakin metin satırlarıdır; zaman-surum-gunlugu geliştirici dili taşır: tek aralıklı terminal penceresi, git dal grafiği, özet kodu + etiket rozetleri ve satır satır yazılma — girişim/yazılım/ar-ge sürüm geçmişi; ikon/görsel kartı ya da eksen yok. Metinler dil sözlüğü, renkler desing + var(--mx-site-*), mantıksal CSS → RTL. Veri yoksa blok basılmaz.",
+  "version": "1.0.0",
+  "icon": "terminal",
+  "category": "timeline",
+  "subCategory": "changelog",
+  "tags": [
+    "timeline",
+    "changelog",
+    "terminal",
+    "git",
+    "monospace",
+    "rtl",
+    "fabrika"
+  ],
+  "desing": {
+    "max": "980px",
+    "bosluk": "clamp(56px, 8vw, 104px)",
+    "yuvarlak": "18px",
+    "ust": "",
+    "baslik": "",
+    "metin": "",
+    "bg": "var(--mx-site-text, #111318)",
+    "text": "var(--mx-site-bg, #ffffff)",
+    "muted": "color-mix(in srgb, var(--mx-site-bg, #ffffff) 78%, var(--mx-site-text, #111318))",
+    "kartBg": "color-mix(in srgb, var(--mx-site-bg, #ffffff) 7%, transparent)",
+    "cizgi": "color-mix(in srgb, var(--mx-site-bg, #ffffff) 18%, transparent)",
+    "accent": "color-mix(in srgb, var(--mx-site-primary, #2563eb) 55%, var(--mx-site-bg, #ffffff))",
+    "accentInk": "color-mix(in srgb, var(--mx-site-primary, #2563eb) 45%, var(--mx-site-bg, #ffffff))",
+    "accentText": "var(--mx-site-text, #111318)",
+    "vurguBg": "color-mix(in srgb, var(--mx-site-primary, #2563eb) 55%, var(--mx-site-bg, #ffffff))",
+    "vurguText": "var(--mx-site-text, #111318)",
+    "bgcolor": "var(--mx-site-text, #111318)",
+    "color": "var(--mx-site-bg, #ffffff)"
+  },
+  "data": [],
+  "veri": {
+    "statik": true,
+    "dinamik": false,
+    "kaynak": "data",
+    "alanlar": {
+      "etiket": "yıl / tarih / dönem (dil sözlüğü ya da düz metin)",
+      "baslik": "dil sözlüğü (zorunlu)",
+      "metin": "dil sözlüğü",
+      "ikon": "Material Symbols adı",
+      "img": "görsel yolu (destekleyen yerleşimde)",
+      "url": "iç/dış bağlantı"
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "c4bp4jw9bk",
+  "name": {
+    "tr": "Demo",
+    "en": "Demo",
+    "ar": "عرض"
+  },
+  "description": {
+    "tr": "Kurucuyla demo görüşmesi talebi (demo).",
+    "en": "Request a demo call with the founder (demo).",
+    "ar": "طلب مكالمة عرض مع المؤسِّسة (تجريبي)."
+  },
+  "keyword": {
+    "tr": "demo",
+    "en": "demo",
+    "ar": "عرض"
+  },
+  "path": "teklif-al",
+  "icon": "event",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "fwxhfb"
+    ],
+    "footer": []
+  },
+  "index": 2,
+  "url": "",
+  "text": {},
+  "title": {
+    "tr": "Demo",
+    "en": "Demo",
+    "ar": "عرض"
+  },
+  "date": "2026-11-16T22:48:12.968Z",
+  "update": "2026-11-16T23:05:51.773Z"
+}
