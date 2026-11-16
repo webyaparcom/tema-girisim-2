@@ -1,0 +1,29 @@
+{
+  "name": "Kovan Sensör",
+  "short_name": "Kovan Sensör",
+  "description": "Kovan Sensör: arıcılar için kovan tartısı ve sıcaklık, nem, ses sensörü geliştiren Muğla merkezli tarım teknolojisi girişimi; kovanı açmadan durumunu telefonda gösterir. Demo site; içerik kurgusaldır.",
+  "start_url": "/tr/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#E39B0B",
+  "lang": "tr",
+  "icons": [
+    {
+      "src": "/img/icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/img/icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/img/icon.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
