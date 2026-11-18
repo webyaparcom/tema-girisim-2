@@ -3,17 +3,23 @@
   "name": {
     "tr": "Demo",
     "en": "Demo",
-    "ar": "عرض"
+    "ar": "عرض",
+    "de": "Demo",
+    "ru": "Демо"
   },
   "description": {
     "tr": "Kurucuyla demo görüşmesi talebi (demo).",
     "en": "Request a demo call with the founder (demo).",
-    "ar": "طلب مكالمة عرض مع المؤسِّسة (تجريبي)."
+    "ar": "طلب مكالمة عرض مع المؤسِّسة (تجريبي).",
+    "de": "Anfrage für ein Demogespräch mit dem Gründer (Demo).",
+    "ru": "Запрос на демо-встречу с основателем (демо)."
   },
   "keyword": {
     "tr": "demo",
     "en": "demo",
-    "ar": "عرض"
+    "ar": "عرض",
+    "de": "demo",
+    "ru": "demo"
   },
   "path": "teklif-al",
   "icon": "event",
@@ -32,7 +38,9 @@
   "title": {
     "tr": "Demo",
     "en": "Demo",
-    "ar": "عرض"
+    "ar": "عرض",
+    "de": "Demo",
+    "ru": "Демо"
   },
   "date": "2026-11-16T22:48:12.968Z",
   "update": "2026-11-16T23:05:51.773Z"

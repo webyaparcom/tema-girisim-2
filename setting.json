@@ -4,12 +4,16 @@
   "description": {
     "tr": "Kovan Sensör: arıcılar için kovan tartısı ve sıcaklık, nem, ses sensörü geliştiren Muğla merkezli tarım teknolojisi girişimi; kovanı açmadan durumunu telefonda gösterir. Demo site; içerik kurgusaldır.",
     "en": "Kovan Sensor: a Mugla-based agritech start-up building hive scales and temperature, humidity and sound sensors for beekeepers, showing a hive’s condition on the phone without opening it. Demo site; content is fictional.",
-    "ar": "كوفان سنسور: شركة ناشئة للتقنيات الزراعية في موغلا تطوّر موازين خلايا النحل ومستشعرات الحرارة والرطوبة والصوت للنحّالين، وتعرض حالة الخلية على الهاتف دون فتحها. موقع تجريبي؛ المحتوى افتراضي."
+    "ar": "كوفان سنسور: شركة ناشئة للتقنيات الزراعية في موغلا تطوّر موازين خلايا النحل ومستشعرات الحرارة والرطوبة والصوت للنحّالين، وتعرض حالة الخلية على الهاتف دون فتحها. موقع تجريبي؛ المحتوى افتراضي.",
+    "de": "Kovan Sensör: Agrar-Tech-Startup aus Muğla, das Waagen und Sensoren für Temperatur, Luftfeuchtigkeit und Schall für Imker entwickelt; zeigt den Zustand des Stocks am Telefon, ohne ihn zu öffnen. Demoseite; Inhalte sind fiktiv.",
+    "ru": "Kovan Sensör: агротех-стартап из Муглы, разрабатывающий весы и датчики температуры, влажности и звука для пчеловодов; показывает состояние улья на телефоне без его открытия. Демо-сайт; контент вымышленный."
   },
   "keyword": {
     "tr": "girişim, tarım teknolojisi, akıllı kovan, arıcılık, kovan sensörü, Muğla",
     "en": "start-up, agritech, smart hive, beekeeping, hive sensor, Mugla",
-    "ar": "شركة ناشئة، تقنيات زراعية، خلية ذكية، تربية النحل، مستشعر الخلية"
+    "ar": "شركة ناشئة، تقنيات زراعية، خلية ذكية، تربية النحل، مستشعر الخلية",
+    "de": "Start-up, Agrartechnologie, intelligenter Bienenstock, Imkerei, Stocksensor, Muğla",
+    "ru": "стартап, агротехнологии, умлей улей, пчеловодство, датчик улья, Мугла"
   },
   "category": "Kurumsal",
   "name": "Kovan Sensör",
@@ -18,15 +22,27 @@
     "tr": true,
     "en": true,
     "ar": true,
-    "de": false,
-    "ru": false,
+    "de": true,
+    "ru": true,
     "es": false,
     "fr": false,
     "it": false,
     "ja": false,
     "zh": false,
     "ko": false,
-    "pt": false
+    "pt": false,
+    "fa": false,
+    "he": false,
+    "ur": false,
+    "nl": false,
+    "pl": false,
+    "uk": false,
+    "az": false,
+    "ka": false,
+    "el": false,
+    "bg": false,
+    "ro": false,
+    "hi": false
   },
   "logo": "logo.png",
   "multi": false,

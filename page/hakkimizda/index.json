@@ -2,7 +2,9 @@
   "name": {
     "tr": "Sürümler",
     "en": "Releases",
-    "ar": "الإصدارات"
+    "ar": "الإصدارات",
+    "de": "Versionen",
+    "ru": "Версии"
   },
   "status": "play",
   "category": "",
@@ -22,7 +24,9 @@
   "description": {
     "tr": "İlk prototipten 140 kovanlık pilota sürüm günlüğü (kurgusal).",
     "en": "Release log from the first prototype to the 140-hive pilot (fictional).",
-    "ar": "سجل الإصدارات من النموذج الأولي إلى تجربة 140 خلية (افتراضي)."
+    "ar": "سجل الإصدارات من النموذج الأولي إلى تجربة 140 خلية (افتراضي).",
+    "de": "Versionstagebuch vom ersten Prototyp bis zum Pilotprojekt mit 140 Bienenstöcken (fiktiv).",
+    "ru": "Журнал версий от первого прототипа до пилота на 140 ульев (вымышленный)."
   },
   "spot": {
     "tr": "",
@@ -33,12 +37,16 @@
   "title": {
     "tr": "Sürümler",
     "en": "Releases",
-    "ar": "الإصدارات"
+    "ar": "الإصدارات",
+    "de": "Versionen",
+    "ru": "Версии"
   },
   "keyword": {
     "tr": "hakkımızda",
     "en": "about",
-    "ar": "من نحن"
+    "ar": "من نحن",
+    "de": "Über uns",
+    "ru": "О нас"
   },
   "text": {},
   "update": "2026-11-16T23:05:51.768Z",
