@@ -5,12 +5,16 @@
       "name": {
         "tr": "Sensör",
         "en": "Sensor",
-        "ar": "المستشعر"
+        "ar": "المستشعر",
+        "de": "Sensor",
+        "ru": "Датчик"
       },
       "description": {
         "tr": "Tartı, sıcaklık, nem ve ses: sensörün altı işi.",
         "en": "Scale, temperature, humidity and sound: the six jobs of the sensor.",
-        "ar": "الميزان والحرارة والرطوبة والصوت: مهام المستشعر الست."
+        "ar": "الميزان والحرارة والرطوبة والصوت: مهام المستشعر الست.",
+        "de": "Gewicht, Temperatur, Feuchte und Ton: sechs Aufgaben unter dem Sensor.",
+        "ru": "Вес, температура, влажность и звук: шесть задач под датчиком."
       },
       "path": "hizmetler",
       "icon": "hive",
@@ -30,7 +34,9 @@
       "name": {
         "tr": "Sürümler",
         "en": "Releases",
-        "ar": "الإصدارات"
+        "ar": "الإصدارات",
+        "de": "Versionen",
+        "ru": "Версии"
       },
       "status": "play",
       "id": "hakkimizda",
@@ -50,7 +56,9 @@
       "description": {
         "tr": "İlk prototipten 140 kovanlık pilota sürüm günlüğü (kurgusal).",
         "en": "Release log from the first prototype to the 140-hive pilot (fictional).",
-        "ar": "سجل الإصدارات من النموذج الأولي إلى تجربة 140 خلية (افتراضي)."
+        "ar": "سجل الإصدارات من النموذج الأولي إلى تجربة 140 خلية (افتراضي).",
+        "de": "Versionstagebuch vom ersten Prototyp bis zum Pilotprojekt mit 140 Bienenstöcken (fiktiv).",
+        "ru": "Журнал версий от первого прототипа до пилота на 140 ульев (вымышленный)."
       }
     },
     {
@@ -58,12 +66,16 @@
       "name": {
         "tr": "Demo",
         "en": "Demo",
-        "ar": "عرض"
+        "ar": "عرض",
+        "de": "Demo",
+        "ru": "Демо"
       },
       "description": {
         "tr": "Kurucuyla demo görüşmesi talebi (demo).",
         "en": "Request a demo call with the founder (demo).",
-        "ar": "طلب مكالمة عرض مع المؤسِّسة (تجريبي)."
+        "ar": "طلب مكالمة عرض مع المؤسِّسة (تجريبي).",
+        "de": "Anfrage für ein Demogespräch mit dem Gründer (Demo).",
+        "ru": "Запрос на демо-встречу с основателем (демо)."
       },
       "path": "teklif-al",
       "icon": "event",
@@ -82,7 +94,9 @@
       "name": {
         "tr": "İletişim",
         "en": "Contact",
-        "ar": "اتصل بنا"
+        "ar": "اتصل بنا",
+        "de": "Kontakt",
+        "ru": "Контакты"
       },
       "status": "play",
       "id": "iletisim",
@@ -103,7 +117,9 @@
       "description": {
         "tr": "Adres, telefon ve çalışma saatleri.",
         "en": "Address, phone and opening hours.",
-        "ar": "العنوان والهاتف وساعات العمل."
+        "ar": "العنوان والهاتف وساعات العمل.",
+        "de": "Adresse, Telefon und Öffnungszeiten.",
+        "ru": "Адрес, телефон и часы работы."
       }
     }
   ],

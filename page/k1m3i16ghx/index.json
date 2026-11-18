@@ -3,17 +3,23 @@
   "name": {
     "tr": "Sensör",
     "en": "Sensor",
-    "ar": "المستشعر"
+    "ar": "المستشعر",
+    "de": "Sensor",
+    "ru": "Датчик"
   },
   "description": {
     "tr": "Tartı, sıcaklık, nem ve ses: sensörün altı işi.",
     "en": "Scale, temperature, humidity and sound: the six jobs of the sensor.",
-    "ar": "الميزان والحرارة والرطوبة والصوت: مهام المستشعر الست."
+    "ar": "الميزان والحرارة والرطوبة والصوت: مهام المستشعر الست.",
+    "de": "Gewicht, Temperatur, Feuchte und Ton: sechs Aufgaben unter dem Sensor.",
+    "ru": "Вес, температура, влажность и звук: шесть задач под датчиком."
   },
   "keyword": {
     "tr": "kovan sensörü, akıllı kovan",
     "en": "hive sensor, smart hive",
-    "ar": "مستشعر الخلية"
+    "ar": "مستشعر الخلية",
+    "de": "Bienenstocksensor, smarter Bienenstock",
+    "ru": "датчик улья, умный улей"
   },
   "path": "hizmetler",
   "icon": "hive",
@@ -33,7 +39,9 @@
   "title": {
     "tr": "Sensör",
     "en": "Sensor",
-    "ar": "المستشعر"
+    "ar": "المستشعر",
+    "de": "Sensor",
+    "ru": "Датчик"
   },
   "date": "2026-11-16T22:48:12.933Z",
   "update": "2026-11-16T23:05:51.757Z"
